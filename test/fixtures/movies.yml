@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  image: MyString
+  tittle: MyString
+  creationdate: 2022-02-18 16:29:59
+  qualification: 1
+  gender: one
+
+two:
+  image: MyString
+  tittle: MyString
+  creationdate: 2022-02-18 16:29:59
+  qualification: 1
+  gender: two
